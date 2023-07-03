@@ -1,0 +1,56 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-top: 10px;
+    padding: 10px 400px;
+  }
+
+  .poema {
+
+    text-align: justify;
+}
+
+
+p {
+    text-align: center;
+    color :black;
+}
+
+b {
+    font-size: 40px;
+    line-height: 80px;
+    
+}
+
+.color-1 {
+    color: green;
+    text-decoration: underline;
+    
+}
+
+.color-2 {
+    color:red;
+    font-weight: bold;
+    font-family: arial;
+}
+
+.style-text {
+    text-decoration: overline underline;
+}
+
+.color-3{
+    color: blue;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+.color-4 {
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+

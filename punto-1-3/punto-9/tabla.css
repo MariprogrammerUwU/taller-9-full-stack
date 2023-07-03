@@ -1,0 +1,49 @@
+
+table{
+    background-color: yellow;
+}
+
+  th, td {
+    border: 1px solid black;
+    text-align: left;;
+}
+
+th {
+
+    color: red;
+}
+
+.mayuscula {
+    text-transform: capitalize;
+    font-weight: bold;
+  }
+  
+  .resto {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.6em;
+
+  }
+  
+.encabezado {
+    text-align: center;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .encabezado .izquierda {
+    margin-right: 120px; 
+  }
+  
+  .encabezado .derecha {
+    margin-left: 120px; 
+  }
+
+
+  
+ 
+
+  

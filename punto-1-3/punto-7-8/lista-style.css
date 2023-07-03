@@ -1,0 +1,45 @@
+header {
+    background-color: rgb(231, 167, 231);
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 500px;
+}
+.lista {
+   list-style: none;
+   padding: 0px;
+   width: 90%;
+   max-width: 1000px;
+   margin: auto;
+}
+
+.lista li a {
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    display: block;
+}
+
+.lista li {
+    display: inline-block;
+    text-align: center;
+}
+
+.lista li a:hover{
+    background: #1905a0;
+}
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
